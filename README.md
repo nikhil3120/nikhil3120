@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikhil3120
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on developing skills
+- 💞️ I’m looking to work on developing apps
 - 📫 This is my email:gowd.msn@gmail.com
 
 <!---
